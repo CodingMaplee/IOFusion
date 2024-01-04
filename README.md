@@ -22,3 +22,5 @@ Our code is tested on:
 * g2o 2.1.0
 
 video address:https://www.bilibili.com/video/BV1EV4y1D7GK/<br />
+
+The annotated dataset is available at annotations folder.
